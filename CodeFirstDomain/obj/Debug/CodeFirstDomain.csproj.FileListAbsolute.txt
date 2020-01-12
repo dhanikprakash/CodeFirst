@@ -1,0 +1,15 @@
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\CodeFirstDomain.dll
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\CodeFirstDomain.pdb
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.csprojAssemblyReference.cache
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.csproj.CoreCompileInputs.cache
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.dll
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.pdb
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\CodeFirstDomain.dll.config
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\EntityFramework.dll
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\EntityFramework.xml
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.csproj.CopyComplete
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.Migrations.Initial.resources
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.csproj.GenerateResource.cache
+C:\Users\dhani\source\repos\CodeFirst\CodeFirstDomain\obj\Debug\CodeFirstDomain.Migrations.deliveryaddrss.resources
